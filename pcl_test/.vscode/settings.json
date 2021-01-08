@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/huawei/ros_qt_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        ".",
+        "/home/huawei/PythonModel"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/huawei/ros_qt_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        ".",
+        "/home/huawei/PythonModel"
+    ],
+    "files.associations": {
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "mixinvector": "cpp",
+        "fast_back_stack": "cpp",
+        "*.ipp": "cpp"
+    }
+}
